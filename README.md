@@ -18,7 +18,6 @@ You can update the data input of the chart by updating the `data` prop passed to
 
 ## Future work
 
-* Figuring out how to dynamically select the dataset for the chart. This will require a deeper look at / refactor of the implementation code in `./vendors/BaseCamp/HillChart.js`. 
 * Read the interactions with the chart, and output corresponding (updated) chart data that can be used to generate an updated version of the plotted chart.
 * Publish a standalone app / extension that saves chart data locally.
 
